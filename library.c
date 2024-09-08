@@ -153,7 +153,6 @@ int main()
                 scanf("%c",&c);
             }
         }
-        else printf("wrong input\n");
         system("cls");
     }
 
